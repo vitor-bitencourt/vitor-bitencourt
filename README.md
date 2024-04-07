@@ -20,7 +20,7 @@
   <img align="center" alt="Vitor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg"/>
   <img align="center" alt="Vitor-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"/>
   <img align="center" alt="Vitor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="right" alt="Vitor-Vader" height="85em" width="85em" src="https://media.discordapp.net/attachments/809481127395065866/1226678061127434393/vader.png?ex=6625a3f8&is=66132ef8&hm=11db3d524f9213f06af7afacc594961f7ff530edcad997e8f5ef632a04062142&=&format=webp&quality=lossless&width=713&height=671"/>
+  <img align="right" alt="Vitor-Vader" height="95em" width="95em" src="https://media.discordapp.net/attachments/809481127395065866/1226678061127434393/vader.png?ex=6625a3f8&is=66132ef8&hm=11db3d524f9213f06af7afacc594961f7ff530edcad997e8f5ef632a04062142&=&format=webp&quality=lossless&width=713&height=671"/>
 </div>
 
 ##
