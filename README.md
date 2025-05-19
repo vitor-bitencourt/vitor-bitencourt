@@ -2,8 +2,7 @@
 
 - 🤖Technology enthusiast, I like the both worlds of Software and Hardware
 - 📖Software Engineering Student
-- 💻Delving deeper into C#
-- 🔛Working with Laravel
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-bitencourt&show_icons=true&theme=tokyonight&hide_border=true"/>
